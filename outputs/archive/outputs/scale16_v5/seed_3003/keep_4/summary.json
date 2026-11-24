@@ -1,0 +1,67 @@
+{
+  "seed": 3003,
+  "keep": 4,
+  "candidate_masks": 1820,
+  "chosen_layers": 2,
+  "surrogate_audit": [
+    {
+      "model": "Linear",
+      "alpha": 3.1622776601683795,
+      "r2": 0.34235126521370507,
+      "mae": 0.03695091470836738,
+      "spearman": 0.8852106227106226
+    },
+    {
+      "model": "Quadratic",
+      "alpha": 3.1622776601683795,
+      "r2": 0.6639034208096765,
+      "mae": 0.025892093158903166,
+      "spearman": 0.8210164835164834
+    },
+    {
+      "model": "Ring quadratic",
+      "alpha": 3.1622776601683795,
+      "r2": 0.2404011381777752,
+      "mae": 0.0354870582085216,
+      "spearman": 0.8682234432234431
+    }
+  ],
+  "qaoa_traces": [
+    {
+      "layers": 1,
+      "seconds": 0.03282169997692108,
+      "evaluations": 87,
+      "mean_qubo": 0.5761588244175636,
+      "top10_probability": 0.10100494460133097
+    },
+    {
+      "layers": 2,
+      "seconds": 0.20343510003294796,
+      "evaluations": 365,
+      "mean_qubo": 0.5674227970811795,
+      "top10_probability": 0.1695295067779734
+    }
+  ],
+  "QAOA_audit_expected_validation_loss": 0.5755134212867175,
+  "QAOA_audit_best32_validation_loss": 0.5647429459926984,
+  "Random_audit_expected_validation_loss": 0.5955312633886934,
+  "Random_audit_best32_validation_loss": 0.5624018088399527,
+  "classical_timings": {
+    "exact_lookup_seconds": 2.500019036233425e-06,
+    "greedy_seconds": 0.001348900026641786,
+    "annealing_seconds": 0.22982419992331415,
+    "exact_score_all_median_seconds": 4.509999416768551e-05,
+    "cost_table_scope": "Enumeration and feature construction were earlier; greedy/annealing use cached QUBO scores. Classical exact score-all time includes matrix scoring and argmin."
+  },
+  "label_training_seconds": 134.71362829999998,
+  "regression_seconds": 0.3284929000074044,
+  "dense": {
+    "parameters": 25450,
+    "training_seconds": 0.6380899000214413,
+    "val_accuracy": 0.8259999752044678,
+    "val_loss": 0.5071079134941101,
+    "test_accuracy": 0.8295000195503235
+  },
+  "greedy_evaluations": 1152,
+  "annealing_evaluations": 9600
+}

@@ -1,0 +1,3 @@
+case,qubits,scope,dense_parameters,pruned_parameters,dense_accuracy,pruned_accuracy,parameter_reduction_percent,accuracy_drop_pp
+8 groups; 50% neuron pruning,8,One preselected initialization; frozen 32-shot hardware selection,12730,6370,0.8233000040054321,0.8180999755859375,49.96072270227808,0.5200028419494629
+16 groups; 75% neuron pruning,16,One preselected initialization; first frozen 32-shot hardware selection,25450,6370,0.8274999856948853,0.8170999884605408,74.97053045186641,1.0399997234344482

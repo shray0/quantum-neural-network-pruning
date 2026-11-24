@@ -1,0 +1,4 @@
+execution,quantum_accuracy,random_accuracy,gain_pp,scope
+"Real IBM hardware, 8 groups",0.8165055863552586,0.8147823735809047,0.17232127743539438,Expected best-of-32 accuracy inferred from one actual 4096-shot measurement batch; invalid outcomes consume the raw-shot budget.
+"Ideal simulation, 8 groups",0.8138858026404957,0.8115528119403663,0.23329907001294448,"Mean expected best-of-32 accuracy across five fresh initializations, all positive gains."
+"Ideal simulation, 16 groups, 50% pruning",0.8286333481470743,0.8259999950726827,0.2633353074391609,Mean selected-mask accuracy across three initializations; one frozen 32-candidate draw per method.

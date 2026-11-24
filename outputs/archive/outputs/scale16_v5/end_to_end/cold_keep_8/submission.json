@@ -1,0 +1,11 @@
+{
+  "tag": "cold_keep_8",
+  "job_id": "dbmjsum74qds73dse56g",
+  "state": "pending",
+  "submitted_at": "2026-11-06T02:41:59.277320+00:00",
+  "submitted_epoch": 1793932919.277348,
+  "output_dir": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\scale16_v5\\end_to_end\\cold_keep_8",
+  "shots": 4096,
+  "accounted_seconds": 60,
+  "usage_estimate_seconds": 3.083572224
+}

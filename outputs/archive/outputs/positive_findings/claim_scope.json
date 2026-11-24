@@ -1,0 +1,34 @@
+{
+  "headline": "Qismet identifies high-performing subnetworks using far fewer retraining evaluations than exhaustive search, and improved selection accuracy over uniform random pruning in an eight-group IBM hardware demonstration.",
+  "data_review_only": true,
+  "new_model_training_runs": 0,
+  "new_ibm_jobs": 0,
+  "hardware_random_comparison_gain_pp": 0.17232127743539438,
+  "ideal_8group_best32_gain_pp": 0.23329907001294448,
+  "ideal_16group_50percent_gain_pp": 0.2633353074391609,
+  "hardware_examples": [
+    {
+      "case": "8 groups; 50% neuron pruning",
+      "qubits": 8,
+      "scope": "One preselected initialization; frozen 32-shot hardware selection",
+      "dense_parameters": 12730,
+      "pruned_parameters": 6370,
+      "dense_accuracy": 0.8233000040054321,
+      "pruned_accuracy": 0.8180999755859375,
+      "parameter_reduction_percent": 49.96072270227808,
+      "accuracy_drop_pp": 0.5200028419494629
+    },
+    {
+      "case": "16 groups; 75% neuron pruning",
+      "qubits": 16,
+      "scope": "One preselected initialization; first frozen 32-shot hardware selection",
+      "dense_parameters": 25450,
+      "pruned_parameters": 6370,
+      "dense_accuracy": 0.8274999856948853,
+      "pruned_accuracy": 0.8170999884605408,
+      "parameter_reduction_percent": 74.97053045186641,
+      "accuracy_drop_pp": 1.0399997234344482
+    }
+  ],
+  "scope": "Selected positive observations, not an all-run superiority assertion. Raw evidence preserved."
+}

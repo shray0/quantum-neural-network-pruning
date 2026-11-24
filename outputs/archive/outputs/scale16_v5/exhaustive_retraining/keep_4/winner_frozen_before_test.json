@@ -1,0 +1,6 @@
+{
+  "state": 610,
+  "val_loss": 0.5282734036445618,
+  "val_accuracy": 0.8289999961853027,
+  "retraining_and_validation_seconds": 0.5256166999461129
+}

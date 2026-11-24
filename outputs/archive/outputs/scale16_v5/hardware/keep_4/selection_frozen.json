@@ -1,0 +1,776 @@
+{
+  "candidate_budget": 32,
+  "seed": 20261113,
+  "batches": [
+    {
+      "batch": 0,
+      "quantum_valid_shots": 7,
+      "quantum_state": 18498,
+      "random_state": 864
+    },
+    {
+      "batch": 1,
+      "quantum_valid_shots": 10,
+      "quantum_state": 37440,
+      "random_state": 2086
+    },
+    {
+      "batch": 2,
+      "quantum_valid_shots": 7,
+      "quantum_state": 4648,
+      "random_state": 23040
+    },
+    {
+      "batch": 3,
+      "quantum_valid_shots": 9,
+      "quantum_state": 6336,
+      "random_state": 106
+    },
+    {
+      "batch": 4,
+      "quantum_valid_shots": 7,
+      "quantum_state": 586,
+      "random_state": 5154
+    },
+    {
+      "batch": 5,
+      "quantum_valid_shots": 5,
+      "quantum_state": 18500,
+      "random_state": 2272
+    },
+    {
+      "batch": 6,
+      "quantum_valid_shots": 7,
+      "quantum_state": 3075,
+      "random_state": 2496
+    },
+    {
+      "batch": 7,
+      "quantum_valid_shots": 5,
+      "quantum_state": 4674,
+      "random_state": 706
+    },
+    {
+      "batch": 8,
+      "quantum_valid_shots": 10,
+      "quantum_state": 33346,
+      "random_state": 2148
+    },
+    {
+      "batch": 9,
+      "quantum_valid_shots": 10,
+      "quantum_state": 4618,
+      "random_state": 33352
+    },
+    {
+      "batch": 10,
+      "quantum_valid_shots": 13,
+      "quantum_state": 33346,
+      "random_state": 554
+    },
+    {
+      "batch": 11,
+      "quantum_valid_shots": 8,
+      "quantum_state": 33346,
+      "random_state": 18498
+    },
+    {
+      "batch": 12,
+      "quantum_valid_shots": 4,
+      "quantum_state": 5156,
+      "random_state": 1062
+    },
+    {
+      "batch": 13,
+      "quantum_valid_shots": 5,
+      "quantum_state": 2118,
+      "random_state": 778
+    },
+    {
+      "batch": 14,
+      "quantum_valid_shots": 12,
+      "quantum_state": 33346,
+      "random_state": 3106
+    },
+    {
+      "batch": 15,
+      "quantum_valid_shots": 6,
+      "quantum_state": 18498,
+      "random_state": 4738
+    },
+    {
+      "batch": 16,
+      "quantum_valid_shots": 4,
+      "quantum_state": 18498,
+      "random_state": 6688
+    },
+    {
+      "batch": 17,
+      "quantum_valid_shots": 7,
+      "quantum_state": 18562,
+      "random_state": 22592
+    },
+    {
+      "batch": 18,
+      "quantum_valid_shots": 7,
+      "quantum_state": 33314,
+      "random_state": 49218
+    },
+    {
+      "batch": 19,
+      "quantum_valid_shots": 7,
+      "quantum_state": 1094,
+      "random_state": 33314
+    },
+    {
+      "batch": 20,
+      "quantum_valid_shots": 5,
+      "quantum_state": 33352,
+      "random_state": 354
+    },
+    {
+      "batch": 21,
+      "quantum_valid_shots": 7,
+      "quantum_state": 547,
+      "random_state": 4290
+    },
+    {
+      "batch": 22,
+      "quantum_valid_shots": 8,
+      "quantum_state": 34819,
+      "random_state": 6274
+    },
+    {
+      "batch": 23,
+      "quantum_valid_shots": 10,
+      "quantum_state": 5634,
+      "random_state": 674
+    },
+    {
+      "batch": 24,
+      "quantum_valid_shots": 11,
+      "quantum_state": 33352,
+      "random_state": 616
+    },
+    {
+      "batch": 25,
+      "quantum_valid_shots": 9,
+      "quantum_state": 2632,
+      "random_state": 616
+    },
+    {
+      "batch": 26,
+      "quantum_valid_shots": 9,
+      "quantum_state": 554,
+      "random_state": 554
+    },
+    {
+      "batch": 27,
+      "quantum_valid_shots": 9,
+      "quantum_state": 6178,
+      "random_state": 23040
+    },
+    {
+      "batch": 28,
+      "quantum_valid_shots": 11,
+      "quantum_state": 1059,
+      "random_state": 33314
+    },
+    {
+      "batch": 29,
+      "quantum_valid_shots": 11,
+      "quantum_state": 20610,
+      "random_state": 1570
+    },
+    {
+      "batch": 30,
+      "quantum_valid_shots": 5,
+      "quantum_state": 4642,
+      "random_state": 2338
+    },
+    {
+      "batch": 31,
+      "quantum_valid_shots": 14,
+      "quantum_state": 33346,
+      "random_state": 450
+    },
+    {
+      "batch": 32,
+      "quantum_valid_shots": 8,
+      "quantum_state": 6216,
+      "random_state": 2632
+    },
+    {
+      "batch": 33,
+      "quantum_valid_shots": 8,
+      "quantum_state": 18466,
+      "random_state": 2086
+    },
+    {
+      "batch": 34,
+      "quantum_valid_shots": 10,
+      "quantum_state": 4642,
+      "random_state": 6336
+    },
+    {
+      "batch": 35,
+      "quantum_valid_shots": 10,
+      "quantum_state": 2115,
+      "random_state": 7170
+    },
+    {
+      "batch": 36,
+      "quantum_valid_shots": 8,
+      "quantum_state": 4642,
+      "random_state": 2338
+    },
+    {
+      "batch": 37,
+      "quantum_valid_shots": 9,
+      "quantum_state": 2628,
+      "random_state": 226
+    },
+    {
+      "batch": 38,
+      "quantum_valid_shots": 11,
+      "quantum_state": 38976,
+      "random_state": 1059
+    },
+    {
+      "batch": 39,
+      "quantum_valid_shots": 4,
+      "quantum_state": 5154,
+      "random_state": 6240
+    },
+    {
+      "batch": 40,
+      "quantum_valid_shots": 10,
+      "quantum_state": 33314,
+      "random_state": 33376
+    },
+    {
+      "batch": 41,
+      "quantum_valid_shots": 10,
+      "quantum_state": 33346,
+      "random_state": 6720
+    },
+    {
+      "batch": 42,
+      "quantum_valid_shots": 8,
+      "quantum_state": 34882,
+      "random_state": 2148
+    },
+    {
+      "batch": 43,
+      "quantum_valid_shots": 8,
+      "quantum_state": 6274,
+      "random_state": 2146
+    },
+    {
+      "batch": 44,
+      "quantum_valid_shots": 6,
+      "quantum_state": 2818,
+      "random_state": 2146
+    },
+    {
+      "batch": 45,
+      "quantum_valid_shots": 7,
+      "quantum_state": 6162,
+      "random_state": 33320
+    },
+    {
+      "batch": 46,
+      "quantum_valid_shots": 6,
+      "quantum_state": 34881,
+      "random_state": 2400
+    },
+    {
+      "batch": 47,
+      "quantum_valid_shots": 12,
+      "quantum_state": 6178,
+      "random_state": 6240
+    },
+    {
+      "batch": 48,
+      "quantum_valid_shots": 12,
+      "quantum_state": 5186,
+      "random_state": 354
+    },
+    {
+      "batch": 49,
+      "quantum_valid_shots": 7,
+      "quantum_state": 33314,
+      "random_state": 2626
+    },
+    {
+      "batch": 50,
+      "quantum_valid_shots": 7,
+      "quantum_state": 586,
+      "random_state": 2090
+    },
+    {
+      "batch": 51,
+      "quantum_valid_shots": 12,
+      "quantum_state": 33314,
+      "random_state": 23040
+    },
+    {
+      "batch": 52,
+      "quantum_valid_shots": 12,
+      "quantum_state": 34882,
+      "random_state": 5154
+    },
+    {
+      "batch": 53,
+      "quantum_valid_shots": 11,
+      "quantum_state": 5154,
+      "random_state": 34882
+    },
+    {
+      "batch": 54,
+      "quantum_valid_shots": 5,
+      "quantum_state": 6274,
+      "random_state": 22530
+    },
+    {
+      "batch": 55,
+      "quantum_valid_shots": 14,
+      "quantum_state": 34882,
+      "random_state": 35360
+    },
+    {
+      "batch": 56,
+      "quantum_valid_shots": 11,
+      "quantum_state": 34882,
+      "random_state": 8416
+    },
+    {
+      "batch": 57,
+      "quantum_valid_shots": 6,
+      "quantum_state": 547,
+      "random_state": 610
+    },
+    {
+      "batch": 58,
+      "quantum_valid_shots": 9,
+      "quantum_state": 4648,
+      "random_state": 547
+    },
+    {
+      "batch": 59,
+      "quantum_valid_shots": 9,
+      "quantum_state": 6216,
+      "random_state": 2752
+    },
+    {
+      "batch": 60,
+      "quantum_valid_shots": 7,
+      "quantum_state": 10370,
+      "random_state": 354
+    },
+    {
+      "batch": 61,
+      "quantum_valid_shots": 6,
+      "quantum_state": 21000,
+      "random_state": 106
+    },
+    {
+      "batch": 62,
+      "quantum_valid_shots": 4,
+      "quantum_state": 4674,
+      "random_state": 1602
+    },
+    {
+      "batch": 63,
+      "quantum_valid_shots": 6,
+      "quantum_state": 33346,
+      "random_state": 34882
+    },
+    {
+      "batch": 64,
+      "quantum_valid_shots": 11,
+      "quantum_state": 6216,
+      "random_state": 4618
+    },
+    {
+      "batch": 65,
+      "quantum_valid_shots": 8,
+      "quantum_state": 4320,
+      "random_state": 38914
+    },
+    {
+      "batch": 66,
+      "quantum_valid_shots": 7,
+      "quantum_state": 6210,
+      "random_state": 4618
+    },
+    {
+      "batch": 67,
+      "quantum_valid_shots": 10,
+      "quantum_state": 33348,
+      "random_state": 6658
+    },
+    {
+      "batch": 68,
+      "quantum_valid_shots": 8,
+      "quantum_state": 6720,
+      "random_state": 1122
+    },
+    {
+      "batch": 69,
+      "quantum_valid_shots": 11,
+      "quantum_state": 4680,
+      "random_state": 35330
+    },
+    {
+      "batch": 70,
+      "quantum_valid_shots": 6,
+      "quantum_state": 4617,
+      "random_state": 38976
+    },
+    {
+      "batch": 71,
+      "quantum_valid_shots": 5,
+      "quantum_state": 17088,
+      "random_state": 2596
+    },
+    {
+      "batch": 72,
+      "quantum_valid_shots": 6,
+      "quantum_state": 2626,
+      "random_state": 2370
+    },
+    {
+      "batch": 73,
+      "quantum_valid_shots": 5,
+      "quantum_state": 11296,
+      "random_state": 4618
+    },
+    {
+      "batch": 74,
+      "quantum_valid_shots": 6,
+      "quantum_state": 4673,
+      "random_state": 8290
+    },
+    {
+      "batch": 75,
+      "quantum_valid_shots": 11,
+      "quantum_state": 2115,
+      "random_state": 2690
+    },
+    {
+      "batch": 76,
+      "quantum_valid_shots": 9,
+      "quantum_state": 4680,
+      "random_state": 2752
+    },
+    {
+      "batch": 77,
+      "quantum_valid_shots": 10,
+      "quantum_state": 612,
+      "random_state": 2848
+    },
+    {
+      "batch": 78,
+      "quantum_valid_shots": 7,
+      "quantum_state": 35330,
+      "random_state": 706
+    },
+    {
+      "batch": 79,
+      "quantum_valid_shots": 9,
+      "quantum_state": 4618,
+      "random_state": 2563
+    },
+    {
+      "batch": 80,
+      "quantum_valid_shots": 9,
+      "quantum_state": 2210,
+      "random_state": 6402
+    },
+    {
+      "batch": 81,
+      "quantum_valid_shots": 8,
+      "quantum_state": 34882,
+      "random_state": 7232
+    },
+    {
+      "batch": 82,
+      "quantum_valid_shots": 10,
+      "quantum_state": 16962,
+      "random_state": 6658
+    },
+    {
+      "batch": 83,
+      "quantum_valid_shots": 8,
+      "quantum_state": 10274,
+      "random_state": 6154
+    },
+    {
+      "batch": 84,
+      "quantum_valid_shots": 8,
+      "quantum_state": 4738,
+      "random_state": 2594
+    },
+    {
+      "batch": 85,
+      "quantum_valid_shots": 8,
+      "quantum_state": 4674,
+      "random_state": 6784
+    },
+    {
+      "batch": 86,
+      "quantum_valid_shots": 8,
+      "quantum_state": 554,
+      "random_state": 51202
+    },
+    {
+      "batch": 87,
+      "quantum_valid_shots": 5,
+      "quantum_state": 4674,
+      "random_state": 6658
+    },
+    {
+      "batch": 88,
+      "quantum_valid_shots": 6,
+      "quantum_state": 33290,
+      "random_state": 2563
+    },
+    {
+      "batch": 89,
+      "quantum_valid_shots": 10,
+      "quantum_state": 5154,
+      "random_state": 550
+    },
+    {
+      "batch": 90,
+      "quantum_valid_shots": 6,
+      "quantum_state": 16962,
+      "random_state": 2083
+    },
+    {
+      "batch": 91,
+      "quantum_valid_shots": 4,
+      "quantum_state": 12354,
+      "random_state": 2563
+    },
+    {
+      "batch": 92,
+      "quantum_valid_shots": 11,
+      "quantum_state": 18466,
+      "random_state": 6664
+    },
+    {
+      "batch": 93,
+      "quantum_valid_shots": 12,
+      "quantum_state": 33346,
+      "random_state": 22592
+    },
+    {
+      "batch": 94,
+      "quantum_valid_shots": 6,
+      "quantum_state": 6210,
+      "random_state": 554
+    },
+    {
+      "batch": 95,
+      "quantum_valid_shots": 7,
+      "quantum_state": 16962,
+      "random_state": 2632
+    },
+    {
+      "batch": 96,
+      "quantum_valid_shots": 5,
+      "quantum_state": 4258,
+      "random_state": 2146
+    },
+    {
+      "batch": 97,
+      "quantum_valid_shots": 6,
+      "quantum_state": 8770,
+      "random_state": 616
+    },
+    {
+      "batch": 98,
+      "quantum_valid_shots": 12,
+      "quantum_state": 34882,
+      "random_state": 6664
+    },
+    {
+      "batch": 99,
+      "quantum_valid_shots": 2,
+      "quantum_state": 2124,
+      "random_state": 706
+    },
+    {
+      "batch": 100,
+      "quantum_valid_shots": 8,
+      "quantum_state": 6210,
+      "random_state": 1570
+    },
+    {
+      "batch": 101,
+      "quantum_valid_shots": 6,
+      "quantum_state": 586,
+      "random_state": 1059
+    },
+    {
+      "batch": 102,
+      "quantum_valid_shots": 7,
+      "quantum_state": 2083,
+      "random_state": 38914
+    },
+    {
+      "batch": 103,
+      "quantum_valid_shots": 9,
+      "quantum_state": 6210,
+      "random_state": 2566
+    },
+    {
+      "batch": 104,
+      "quantum_valid_shots": 9,
+      "quantum_state": 6274,
+      "random_state": 4170
+    },
+    {
+      "batch": 105,
+      "quantum_valid_shots": 8,
+      "quantum_state": 4680,
+      "random_state": 3138
+    },
+    {
+      "batch": 106,
+      "quantum_valid_shots": 10,
+      "quantum_state": 8770,
+      "random_state": 616
+    },
+    {
+      "batch": 107,
+      "quantum_valid_shots": 9,
+      "quantum_state": 33346,
+      "random_state": 16962
+    },
+    {
+      "batch": 108,
+      "quantum_valid_shots": 9,
+      "quantum_state": 547,
+      "random_state": 808
+    },
+    {
+      "batch": 109,
+      "quantum_valid_shots": 7,
+      "quantum_state": 6178,
+      "random_state": 864
+    },
+    {
+      "batch": 110,
+      "quantum_valid_shots": 6,
+      "quantum_state": 22530,
+      "random_state": 2210
+    },
+    {
+      "batch": 111,
+      "quantum_valid_shots": 7,
+      "quantum_state": 33314,
+      "random_state": 2400
+    },
+    {
+      "batch": 112,
+      "quantum_valid_shots": 10,
+      "quantum_state": 4642,
+      "random_state": 2570
+    },
+    {
+      "batch": 113,
+      "quantum_valid_shots": 7,
+      "quantum_state": 4642,
+      "random_state": 674
+    },
+    {
+      "batch": 114,
+      "quantum_valid_shots": 8,
+      "quantum_state": 51202,
+      "random_state": 34882
+    },
+    {
+      "batch": 115,
+      "quantum_valid_shots": 7,
+      "quantum_state": 4680,
+      "random_state": 34882
+    },
+    {
+      "batch": 116,
+      "quantum_valid_shots": 8,
+      "quantum_state": 6274,
+      "random_state": 736
+    },
+    {
+      "batch": 117,
+      "quantum_valid_shots": 3,
+      "quantum_state": 18500,
+      "random_state": 360
+    },
+    {
+      "batch": 118,
+      "quantum_valid_shots": 7,
+      "quantum_state": 18498,
+      "random_state": 2272
+    },
+    {
+      "batch": 119,
+      "quantum_valid_shots": 16,
+      "quantum_state": 34850,
+      "random_state": 610
+    },
+    {
+      "batch": 120,
+      "quantum_valid_shots": 8,
+      "quantum_state": 547,
+      "random_state": 616
+    },
+    {
+      "batch": 121,
+      "quantum_valid_shots": 8,
+      "quantum_state": 5186,
+      "random_state": 2370
+    },
+    {
+      "batch": 122,
+      "quantum_valid_shots": 8,
+      "quantum_state": 18528,
+      "random_state": 6147
+    },
+    {
+      "batch": 123,
+      "quantum_valid_shots": 7,
+      "quantum_state": 4680,
+      "random_state": 556
+    },
+    {
+      "batch": 124,
+      "quantum_valid_shots": 9,
+      "quantum_state": 34884,
+      "random_state": 2626
+    },
+    {
+      "batch": 125,
+      "quantum_valid_shots": 6,
+      "quantum_state": 33316,
+      "random_state": 34882
+    },
+    {
+      "batch": 126,
+      "quantum_valid_shots": 3,
+      "quantum_state": 6212,
+      "random_state": 22530
+    },
+    {
+      "batch": 127,
+      "quantum_valid_shots": 8,
+      "quantum_state": 6216,
+      "random_state": 34882
+    }
+  ],
+  "frozen_before_test": true,
+  "scope": "128 random partitions of one aggregate shot batch; not independent device repeats."
+}

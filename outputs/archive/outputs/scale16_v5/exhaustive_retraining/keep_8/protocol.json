@@ -1,0 +1,15 @@
+{
+  "seed": 1001,
+  "keep": 8,
+  "masks": 12870,
+  "hidden": 32,
+  "groups": 16,
+  "group_size": 2,
+  "epochs": 20,
+  "training_samples": 5000,
+  "validation_samples": 1000,
+  "cpu_threads": 1,
+  "objective": "actual final retrained validation cross-entropy",
+  "method": "cold rewind and full retraining of every valid mask; no QUBO or search heuristic",
+  "timing_scope": "Active elapsed time for rewind, train, validation, selection and checkpoints. Data loading is outside this interval. No earlier mask metrics reused."
+}

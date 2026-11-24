@@ -1,0 +1,10 @@
+{
+  "complete": false,
+  "keep": 4,
+  "completed_masks": 1820,
+  "total_masks": 1820,
+  "active_elapsed_seconds": 12960.21701360005,
+  "estimated_remaining_seconds": 0.0,
+  "best_so_far_state": 610,
+  "best_so_far_validation_loss": 0.5282734036445618
+}

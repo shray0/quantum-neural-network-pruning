@@ -1,0 +1,67 @@
+{
+  "seed": 3003,
+  "keep": 8,
+  "candidate_masks": 12870,
+  "chosen_layers": 2,
+  "surrogate_audit": [
+    {
+      "model": "Linear",
+      "alpha": 1.0,
+      "r2": 0.5173547523990892,
+      "mae": 0.006673099659899831,
+      "spearman": 0.7418498168498167
+    },
+    {
+      "model": "Quadratic",
+      "alpha": 10.0,
+      "r2": 0.5831023395906441,
+      "mae": 0.006561316258262267,
+      "spearman": 0.7763278388278387
+    },
+    {
+      "model": "Ring quadratic",
+      "alpha": 3.1622776601683795,
+      "r2": 0.5495650827676225,
+      "mae": 0.0065514338727998885,
+      "spearman": 0.7638736263736262
+    }
+  ],
+  "qaoa_traces": [
+    {
+      "layers": 1,
+      "seconds": 0.1077979999827221,
+      "evaluations": 87,
+      "mean_qubo": 0.520442968003799,
+      "top10_probability": 0.4106808579785003
+    },
+    {
+      "layers": 2,
+      "seconds": 0.5299768999684602,
+      "evaluations": 235,
+      "mean_qubo": 0.5177632234900899,
+      "top10_probability": 0.5575267755980424
+    }
+  ],
+  "QAOA_audit_expected_validation_loss": 0.5207476975868888,
+  "QAOA_audit_best32_validation_loss": 0.5126539051150971,
+  "Random_audit_expected_validation_loss": 0.5281903734430671,
+  "Random_audit_best32_validation_loss": 0.5091512032151475,
+  "classical_timings": {
+    "exact_lookup_seconds": 8.699949830770493e-06,
+    "greedy_seconds": 0.005244700005277991,
+    "annealing_seconds": 0.22956470004282892,
+    "exact_score_all_median_seconds": 0.00047004997031763196,
+    "cost_table_scope": "Enumeration and feature construction were earlier; greedy/annealing use cached QUBO scores. Classical exact score-all time includes matrix scoring and argmin."
+  },
+  "label_training_seconds": 150.27583729999606,
+  "regression_seconds": 0.34847870003432035,
+  "dense": {
+    "parameters": 25450,
+    "training_seconds": 0.6380899000214413,
+    "val_accuracy": 0.8259999752044678,
+    "val_loss": 0.5071079134941101,
+    "test_accuracy": 0.8295000195503235
+  },
+  "greedy_evaluations": 2624,
+  "annealing_evaluations": 9600
+}

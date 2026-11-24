@@ -1,0 +1,20 @@
+[
+  {
+    "keep": 4,
+    "recorded_masks": 1820,
+    "median_mask_seconds": 0.5579470500233583,
+    "outlier_count": 1,
+    "largest_interval_seconds": 11934.02896450006,
+    "use_for_speedup_ratio": false,
+    "interpretation": "Near-identical long intervals in both workers indicate a shared host interruption; raw timing is not a clean compute benchmark."
+  },
+  {
+    "keep": 8,
+    "recorded_masks": 3168,
+    "median_mask_seconds": 0.5968302999972366,
+    "outlier_count": 1,
+    "largest_interval_seconds": 11934.022130899946,
+    "use_for_speedup_ratio": false,
+    "interpretation": "Near-identical long intervals in both workers indicate a shared host interruption; raw timing is not a clean compute benchmark."
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\__pycache__",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\__pycache__"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\constrained_v4",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\constrained_v4"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\diagnostics_v2",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\diagnostics_v2"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\fashion_v2",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\fashion_v2"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\hardware_v3",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\hardware_v3"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\positive_findings",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\positive_findings"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\results",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\results"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\scale16_v5",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\scale16_v5"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\environment-lock.txt",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\environment-lock.txt"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\experiment_utils.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\experiment_utils.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\Positive_Findings.html",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\Positive_Findings.html"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\Positive_Findings.md",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\Positive_Findings.md"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\qaoa_utils.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\qaoa_utils.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\Qismet_complete.zip",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\Qismet_complete.zip"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\Qismet_v2_complete.zip",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\Qismet_v2_complete.zip"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\Qismet.html",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\Qismet.html"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\Qismet.ipynb",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\Qismet.ipynb"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\README.md",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\README.md"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\requirements.txt",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\requirements.txt"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\RESULTS_v2.md",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\RESULTS_v2.md"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\two_moons_dataset.csv",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\two_moons_dataset.csv"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\two_moons_dataset.png",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\two_moons_dataset.png"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\v2_manifest_sha256.json",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\outputs\\v2_manifest_sha256.json"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\__pycache__",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\__pycache__"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\audit_notebook.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\audit_notebook.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\benchmark_revised_search.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\benchmark_revised_search.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\bootstrap_constrained_hardware.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\bootstrap_constrained_hardware.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\build_constrained_report.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\build_constrained_report.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\build_hardware_notebook.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\build_hardware_notebook.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\build_hardware_results.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\build_hardware_results.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\build_notebook.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\build_notebook.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\build_positive_findings.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\build_positive_findings.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\build_scale16_report.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\build_scale16_report.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\check_hardware_core.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\check_hardware_core.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\check_hardware_workflow.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\check_hardware_workflow.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\check_local_credentials.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\check_local_credentials.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\check_sixteen_runner.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\check_sixteen_runner.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\execute_notebook.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\execute_notebook.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\finalize_constrained_when_ready.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\finalize_constrained_when_ready.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\finalize_hardware_when_ready.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\finalize_hardware_when_ready.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\finalize.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\finalize.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\focus_exhaustive_comparison.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\focus_exhaustive_comparison.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\hardware_v3_core_verification.json",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\hardware_v3_core_verification.json"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\package_v2.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\package_v2.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\pilot_constrained_qaoa.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\pilot_constrained_qaoa.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\prepare_clean_demo.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\prepare_clean_demo.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\run_authorized_hardware.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\run_authorized_hardware.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\verify_fashion.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\verify_fashion.py"
+  },
+  {
+    "from": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\work\\verify_outputs.py",
+    "to": "C:\\Users\\kpush\\Documents\\Codex\\2026-11-04\\i-w\\outputs\\archive\\work\\verify_outputs.py"
+  }
+]

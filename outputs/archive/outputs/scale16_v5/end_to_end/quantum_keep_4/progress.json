@@ -1,0 +1,13 @@
+{
+  "started_epoch": 1793932633.8796005,
+  "phase": "hardware",
+  "labels": 192,
+  "wall_seconds_so_far": 130.1147711277008,
+  "label_stage_finished_epoch": 1793932735.888178,
+  "regression_seconds": 0.15088330011349171,
+  "angle_optimization_seconds": 0.050526399980299175,
+  "angle_evaluations": 135,
+  "alpha": 3.1622776601683795,
+  "job_id": "dbmjrmt8mdtc73d83j40",
+  "hardware_status": "QUEUED"
+}

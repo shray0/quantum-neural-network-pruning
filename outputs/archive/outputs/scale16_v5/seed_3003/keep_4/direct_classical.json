@@ -1,0 +1,36 @@
+[
+  {
+    "method": "Greedy swaps",
+    "state": 332,
+    "qubo": 0.5086122734526233,
+    "qubo_gap": 0.0,
+    "evaluations": 1400,
+    "seconds": 0.002144999918527901,
+    "cached_cost_table": false,
+    "test_accuracy": 0.8062000274658203,
+    "val_accuracy": 0.8009999990463257
+  },
+  {
+    "method": "Simulated annealing",
+    "state": 332,
+    "qubo": 0.5086122734526233,
+    "qubo_gap": 0.0,
+    "evaluations": 9632,
+    "seconds": 0.02180650003720075,
+    "cached_cost_table": false,
+    "test_accuracy": 0.8062000274658203,
+    "val_accuracy": 0.8009999990463257
+  },
+  {
+    "method": "Exact QUBO, enumerate and score",
+    "state": 332,
+    "qubo": 0.5086122734526233,
+    "qubo_gap": 0.0,
+    "evaluations": 1820,
+    "seconds": 0.006511799991130829,
+    "cached_cost_table": false,
+    "scope": "Includes mask enumeration and feature construction as in the main experiment, direct score evaluation and selecting the minimum.",
+    "test_accuracy": 0.8062000274658203,
+    "val_accuracy": 0.8009999990463257
+  }
+]

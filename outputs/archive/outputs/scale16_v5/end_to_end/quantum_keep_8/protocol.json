@@ -1,0 +1,15 @@
+{
+  "seed": 1001,
+  "keep": 8,
+  "fit_retrains": 192,
+  "audit_retrains_in_production": 0,
+  "epochs": 20,
+  "cpu_threads": 1,
+  "layers": 1,
+  "restarts": 3,
+  "max_iterations": 100,
+  "shots": 4096,
+  "backend": "ibm_fez",
+  "selection": "lowest predicted QUBO score among every feasible observed mask",
+  "scope": "Fresh timed replay. Wall time includes label generation, regression, CPU simulation-based angle optimization, IBM connection/transpilation/submission/queue, decoding and final retraining/test. Common data loading and mask-feature enumeration are outside the timed interval."
+}

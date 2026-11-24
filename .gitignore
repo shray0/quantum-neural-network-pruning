@@ -1,0 +1,11 @@
+# Local IBM credentials (never commit).
+ibm_credentials.local.json
+/.secrets/
+
+# Local environments, caches, and publishing checkout.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data_cache/
+.publish-qismet/
