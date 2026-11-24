@@ -10,7 +10,9 @@ I reframed pruning as a function of **which weights are included**, represented 
 
 I approximated that loss with a quadratic function:
 
-$$\hat L(m)=c+\sum_i a_i m_i+\sum_{i<j}b_{ij}m_i m_j,\qquad m_i\in\{0,1\}.$$
+```math
+\widehat{L}(m) = c + \sum_{i} a_i m_i + \sum_{i<j} b_{ij} m_i m_j, \qquad m_i \in \{0,1\}.
+```
 
 Mapping $m_i=(1-Z_i)/2$ turns this function into a qubit Hamiltonian. QAOA alternates an **energy encoder**, which encodes predicted loss into phase, and a **mixer**, which explores candidate masks. A classical optimizer tunes the angles $\gamma$ and $\beta$. I then measure the circuit, select a mask, and retrain the pruned network.
 
