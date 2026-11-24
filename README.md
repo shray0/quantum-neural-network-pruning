@@ -16,7 +16,9 @@ I approximated that loss with a quadratic function:
 
 Each $`m_i \in \{0,1\}`$ is 1 if group $`i`$ is retained and 0 if it is removed.
 
-Mapping $`m_i = (1-Z_i)/2`$ turns this function into a qubit Hamiltonian. QAOA alternates an **energy encoder**, which encodes predicted loss into phase, and a **mixer**, which explores candidate masks. The intuition here is that we're trying to encode qubits as energy, and the idea is that we mix these encodings in such a way that the high cost alternatives destructively interfere and the low cost alternatives constructively interfere, so we end up with a mix of all our low cost choices. We build on this intuition using a classical optimizer, tuning the angles $`\gamma`$ and $`\beta`$. We then measure the circuit, select a mask, and retrain the pruned network.
+Mapping $`m_i = (1-Z_i)/2`$ turns this function into a qubit Hamiltonian. QAOA alternates an **energy encoder**, which encodes predicted loss into phase, and a **mixer**, which explores candidate masks. 
+
+The intuition here is that we're trying to encode qubits as energy, and the idea is that we mix these encodings in such a way that the high cost alternatives destructively interfere and the low cost alternatives constructively interfere, so we end up with a mix of all our low cost choices. We train on this intuition using an optimizer, tuning the angles $`\gamma`$ and $`\beta`$. We then measure the circuit, select a mask, and retrain the pruned network.
 
 ![Three-qubit illustration of the energy encoder and mixer](docs/figures/qaoa.png)
 
