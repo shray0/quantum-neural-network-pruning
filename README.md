@@ -2,7 +2,7 @@
 
 **Shray Kumar** · [Demo](outputs/demo/Demo.ipynb) · [Code](outputs/demo/pruning.py) · [Experiments](outputs/archive/outputs/)
 
-A smaller neural network, without losing what it learned. The challenge is choosing what to remove: with 100 binary inclusion decisions, there are 2¹⁰⁰ possible masks.
+A smaller neural network, without losing what it learned. The challenge is choosing what to remove: with 100 binary inclusion decisions, there are $`2^{100}`$ possible masks.
 
 ### My approach
 
@@ -10,14 +10,13 @@ I reframed pruning as a function of **which weights are included**, represented 
 
 I approximated that loss with a quadratic function:
 
-```text
-Predicted loss = constant + individual group effects + pairwise interactions
-              = c + Σᵢ aᵢmᵢ + Σᵢⱼ bᵢⱼmᵢmⱼ   (i < j)
+```math
+\widehat{L}(\mathbf{m}) = c + \sum_{i=1}^{n} a_i m_i + \sum_{i=1}^{n}\sum_{j=i+1}^{n} b_{ij} m_i m_j
 ```
 
-Each mᵢ is 1 if group i is retained and 0 if it is removed.
+Each $`m_i \in \{0,1\}`$ is 1 if group $`i`$ is retained and 0 if it is removed.
 
-Mapping `mᵢ = (1 − Zᵢ)/2` turns this function into a qubit Hamiltonian. QAOA alternates an **energy encoder**, which encodes predicted loss into phase, and a **mixer**, which explores candidate masks. A classical optimizer tunes the angles γ and β. I then measure the circuit, select a mask, and retrain the pruned network.
+Mapping $`m_i = (1-Z_i)/2`$ turns this function into a qubit Hamiltonian. QAOA alternates an **energy encoder**, which encodes predicted loss into phase, and a **mixer**, which explores candidate masks. A classical optimizer tunes the angles $`\gamma`$ and $`\beta`$. I then measure the circuit, select a mask, and retrain the pruned network.
 
 ![Three-qubit illustration of the energy encoder and mixer](docs/figures/qaoa.png)
 
