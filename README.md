@@ -28,7 +28,7 @@ The intuition here is that we're trying to encode qubits as energy, and the idea
 
 The [16-qubit demo](outputs/demo/START_HERE.md) reduced **25,450 parameters to 12,730**, with test accuracy changing from **82.75% to 82.73%** on Fashion-MNIST.
 
-In the [100-qubit IBM hardware experiment](outputs/archive/outputs/hw100_v6/RESULTS.md), QAOA beat random pruning in **two of three seeds** on best-of-10 validation loss. It did **not** outperform simulated annealing overall. This demonstrates quantum-guided pruning at a scale where exhaustive search is impractical; it does not establish an advantage over the best classical methods.
+In the [100-qubit IBM hardware experiment](outputs/archive/outputs/hw100_v6/RESULTS.md), QAOA beat random pruning in **two of three seeds** on best-of-10 validation loss. It did **not** outperform simulated annealing overall. This demonstrates quantum-guided pruning at a scale where exhaustive search is impractical.
 
 ### Explore
 
